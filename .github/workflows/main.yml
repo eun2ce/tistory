@@ -9,8 +9,8 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    # - cron: "0 0 */1 * *" # 매일
-    - cron: "*/1 * * * *" # 1분마다
+    - cron: "0 0 */1 * *" # 매일
+    # - cron: "*/1 * * * *" # 1분마다
 
 jobs:
   build:

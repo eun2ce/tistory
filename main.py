@@ -4,7 +4,6 @@ uri="https://eun2ce.tistory.com"
 feed = feedparser.parse(uri+"/rss")
 
 markdown_text = """# eun2ce.tistory.com
-Hi
 ## blog posts
 """
 

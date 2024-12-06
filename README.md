@@ -1,5 +1,4 @@
 # eun2ce.tistory.com
-Hi
 ## blog posts
 [eun2ce.github.io 로 블로그를 이전합니다.](https://eun2ce.tistory.com/notice/42) - Dec 03, 2024<br>
 [하둡(Hadoop)과 스파크(Spark)](https://eun2ce.tistory.com/35) - Nov 26, 2024<br>

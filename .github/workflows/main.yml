@@ -30,10 +30,9 @@ jobs:
         python main.py
     - name: Commit README
       run: |
-        git pull
         git add .
         git diff
-        git config --local user.email "action@gihtub.com"
-        git config --local user.name "GitHub Action"
-        git commit -m "Update README.md"
+        git config --local user.email "eun2ce@gihtub.com"
+        git config --local user.name "eun2ce"
+        git commit -m "docs: updated my tistory blog"
         git push
